@@ -1,12 +1,5 @@
 @charset "UTF-8";
 
-/*
- Palea de cores 
-
-primeira: roxa dele minha é verde #012c14 
-
-segunda: creme #e9ddb8
-*/
 
 *{
     font-family: "Bad Script", cursive;
@@ -16,7 +9,7 @@ segunda: creme #e9ddb8
 }
 
 body, html {
-    background-color: #778667;
+    background-color: #a1c7f1;
     height: 100vh;
     width: 100vw;
 }
