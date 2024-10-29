@@ -105,12 +105,12 @@ form > input[type=submit] {
     display: block;
     font-size: 0.8em ;
     width: 80%;
-    height: 28px;
+    height: 35px;
     background-color: rgb(71, 44, 44);
     color: white;
     border: none;
     border-radius: 8px;
-    margin: 8px auto;
+    margin: 4px auto;
 }
 
 form > input[type=submit]:hover {
@@ -122,13 +122,13 @@ form > a.botao {
     display: block;
     font-size: 0.8em;
     width: 80%;
-    height: 28px;
+    height: 35px;
     background-color: #ffffff;
     color: rgb(71, 44, 44);
     border: 0.9px;
     border-radius: 8px;
     text-decoration: none;
-    margin: 8px auto;
+    margin: 4px auto;
 }
 
 form > a.botao:hover {
